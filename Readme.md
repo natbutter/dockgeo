@@ -6,3 +6,6 @@ Interact with something like this: sudo docker run -p 8888:8888 -it --rm -vpwd:/
 
 Then launch a notebook or run a python script. 
 You may need to add additional paths to the PYTHONPATH upon execution - depending on what you are doing.
+
+
+If you make use of this image, please acknoledge the Sydney Informatics Hub at the University of Sydney
